@@ -1,0 +1,1 @@
+const sentance="I am learnign web development"
