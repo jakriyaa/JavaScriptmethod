@@ -1,8 +1,7 @@
 // Function Decleare 
-function sum(a,b){
-    const result=x+y;
-    return result;
+function jugkoro (number1, number2,number3,){
+  const jug=number1+number2-number3
+  console.log(jug)
 }
 // Function Call
-const total=(685,6546)
-console.log(total)
+jugkoro(5,5,)
